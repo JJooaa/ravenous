@@ -28,7 +28,7 @@ In order to get your own api key, you need to have a yelp account.
 If you want to fetch data in a development mode you need to create an .env file in the root directory of the project.
 Inside the .env file you want to add an environment-specific variable. 
 For example; REACT_APP_API_KEY=123123123
+<br>
 Now you're good to go.
-
 
 Created Using the Create-React-App.
